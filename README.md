@@ -1,4 +1,4 @@
 # MyProfile
 
-My Personal profile web site. I have hosted it on Microsoft Windows Azure.
+My Personal profile web site.
 Check it out at www.utdallas.edu/~mmp130630.
